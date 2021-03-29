@@ -16,3 +16,10 @@ Step 3: Take a look at your webpage, analyse whether something is missing, add y
 
 Highly recommended:
 Have a look at code, try it on your own!
+
+Consists of 3 pages
+1 HOME
+2 ABOUT
+3 SERVICES 
+
+Simple awesome website using html/css for absolute beginners
