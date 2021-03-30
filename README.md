@@ -23,3 +23,5 @@ Consists of 3 pages
 3 SERVICES 
 
 Simple awesome website using html/css for absolute beginners
+
+Website: http://127.0.0.1:5500/project1.html
