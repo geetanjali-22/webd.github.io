@@ -11,7 +11,7 @@ Step 2: After completion of html part,move further to css,
 style your page as you wish
 
 
-Step 3: Take a look at your webpage, analyse whether something is missing, add your ideas & create it !
+Step 3: Take a look at your webpage, analyze whether something is missing, add your ideas & create it !
 
 
 Highly recommended:
