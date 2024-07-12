@@ -20,7 +20,7 @@ Have a look at code, try it on your own!
 Consists of 3 pages
 1 HOME
 2 ABOUT
-3 SERVICES 
+3 SERVICES 1
 
 Simple awesome website using html/css for absolute beginners !
 https://geetanjali-22.github.io/web-development/
