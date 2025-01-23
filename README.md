@@ -1,4 +1,4 @@
-This is a simple website for beginners made using HTML/CSS only
+This is a simple website for beginners made using HTML/CSS only\\
 Project for absolute beginners
 Prerequisites: HTML/CSS
 
