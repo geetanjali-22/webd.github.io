@@ -1,5 +1,5 @@
 This is a simple website for beginners made using HTML/CSS only
-
+Project for absolute beginners
 Prerequisites: HTML/CSS
 
 STEPS for building this website would be as follows:
@@ -19,5 +19,3 @@ Consists of 3 pages
 2 ABOUT
 3 SERVICES
 
-Simple awesome website using html/css for absolute beginners !
-https://geetanjali-22.github.io/web-development/
